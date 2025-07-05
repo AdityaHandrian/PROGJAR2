@@ -1,4 +1,4 @@
-# Tugas 3 - Pemrograman Jaringan D
+# Tugas 2 - Pemrograman Jaringan D
 
 | Nama                 | NRP        |
 |----------------------|------------|
